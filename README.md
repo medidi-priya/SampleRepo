@@ -38,7 +38,7 @@ How to Insert image
 ![Sun Flower](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sunflower_sky_backdrop.jpg/220px-Sunflower_sky_backdrop.jpg)
 
 <img scr ="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sunflower_sky
-_backdrop.jpg/220px-Sunflower_sky_backdrop.jpg" Width=80 height=100>
+_backdrop.jpg/220px-Sunflower_sky_backdrop.jpg" Width=30 height=10>
 
 how to place the links
 
